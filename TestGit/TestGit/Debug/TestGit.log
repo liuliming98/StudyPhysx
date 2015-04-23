@@ -1,0 +1,20 @@
+﻿Build started 2015/4/23 15:57:15.
+     1>Project "C:\Users\liuliming\Desktop\GitPhysx\TestGit\TestGit\TestGit.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\TestGit.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt TestGit.cpp
+         TestGit.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\liuliming\Desktop\GitPhysx\TestGit\Debug\TestGit.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\TestGit.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\liuliming\Desktop\GitPhysx\TestGit\Debug\TestGit.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\liuliming\Desktop\GitPhysx\TestGit\Debug\TestGit.lib" /MACHINE:X86 Debug\TestGit.obj
+         TestGit.vcxproj -> C:\Users\liuliming\Desktop\GitPhysx\TestGit\Debug\TestGit.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"C:\Users\liuliming\Desktop\GitPhysx\TestGit\Debug\TestGit.exe.manifest" /manifest Debug\TestGit.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\TestGit.unsuccessfulbuild".
+         Touching "Debug\TestGit.lastbuildstate".
+     1>Done Building Project "C:\Users\liuliming\Desktop\GitPhysx\TestGit\TestGit\TestGit.vcxproj" (build target(s)).
+
+生成成功。
+
+Time Elapsed 00:00:00.62
